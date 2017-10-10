@@ -34,7 +34,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/usr/keylayout/sec_e-pen.kl:system/usr/keylayout/sec_e-pen.kl \
-    $(LOCAL_PATH)/proprietary/usr/keylayout/sec_touchkey.kl:system/usr/keylayout/sec_touchkey.kl
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/vendor/firmware/bluetooth/bcm4334.hcd:system/vendor/firmware/bluetooth/bcm4334.hcd \
