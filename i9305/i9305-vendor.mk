@@ -13,6 +13,6 @@
 # limitations under the License.
 
 # Pick up overlay for features that depend on non-open-source files
-DEVICE_PACKAGE_OVERLAYS += vendor/samsung/i9305/overlay
+#DEVICE_PACKAGE_OVERLAYS += vendor/samsung/i9305/overlay
 
 $(call inherit-product, vendor/samsung/i9305/i9305-vendor-blobs.mk)
